@@ -1,5 +1,6 @@
 # Namaste-React-24
-Episode-01 Inception
+<h1>Contents of the Repo 🦾✅</h1>
+# Episode-01 Inception
 Introduction to foundational tools and frameworks in web development.
 Topics Covered:
 Visual code setup,
