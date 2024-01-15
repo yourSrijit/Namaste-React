@@ -47,14 +47,14 @@ This video solves all the issues related to the Swiggy API, which we are using i
 Episode-6.2 | CORS Plugin Issue solved
 In this video, all the issues, that the students were facing because of CORS, have been resolved.
 
-Episode-07 | Finding the Path
+# Episode-07 | Finding the Path
 Mastering React Router for smooth navigation and routing.
 Topics Covered:
 React Router
 Dynamic Routing
 Outlet Component
 
-➡Episode-08 | Let's Get Classy
+# Episode-08 | Let's Get Classy
 Learning Class-based components and their lifecycles.
 Topics Covered:
 Class-based components
