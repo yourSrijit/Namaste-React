@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+}.Header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    background-color: #AAD9BB;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+    cursor: pointer;
+}
+.nav-item >ul{
+    display: flex;
+}
+.nav-item >ul >li{
+    margin: 0 30px;
+    list-style-type: none;
+    font-size: larger;
+}
+.nav{
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.nav:hover{
+ background-color: aliceblue;
+ border: 2px solid black;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.res-card{
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+.res-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.card-img{
+    width: 100%;
+    border-radius: 10px;
+}
+.filter{
+    display: flex;
+    margin: 20px 30px;
+}
+#ipsearch{
+    width: 400px;
+    height: 30px;
+    font-size: larger;
+    border-radius: 10px;
+}
+.filter-btn{
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.login{
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.login:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 2px 2px 5px black;
+}
+
+.user-card{
+    width: 600px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 5px;
+    margin-bottom: 10px;
+}
+.user-card:hover{
+    cursor: pointer;
+    box-shadow: 2px 3px 5px black;
+}
