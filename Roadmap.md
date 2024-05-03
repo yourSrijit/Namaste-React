@@ -9,7 +9,7 @@
    - Creating a new React application using Create React App.
 
 ## 3. Components in React:
-   - Functional components.
+   - Functional components. 
    - Class components.
    - Props and state.
    - Component lifecycle methods.
