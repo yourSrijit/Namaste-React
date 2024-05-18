@@ -12,6 +12,8 @@
 
 - Browser [After authentication]
   - Header 
+  - Router 
+  - useRef
   - Main Movie
     - Tailer in bg
     - Title and Description
@@ -20,3 +22,5 @@
 - Netflix GPT 
   - Search Bar
   - Movie Suggestions
+
+  ---
