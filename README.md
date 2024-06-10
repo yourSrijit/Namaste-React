@@ -6,7 +6,7 @@
 
 <h1>Contents of the Repo 🦾✅</h1>
 <hr>
-<h1>Episode-01 | Inception</h1>
+<h1>Episode-01 | Inception</h1> 
 
 Introduction to foundational tools and frameworks in web development.
 Topics Covered:
