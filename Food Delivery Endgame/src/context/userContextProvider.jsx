@@ -30,7 +30,7 @@ const UserContextProvider = ({children}) => {
             setListOfRestaurant(resList ); 
             setFilteredRestaurant(resList);
         }
-        catch(error){
+        catch(error){ 
 
         }
         
