@@ -14,7 +14,7 @@ import Error from "./components/Error.js";
 import RestaurantMenu from "./components/RestaurantMenu.js";
 import { Provider } from "react-redux";
 import rdxStore from "./redux/rdxStore.js";
-import Cart from "./components/Cart.js";
+import Cart from "./components/Cart.js";  
 
 
 const AppLayout=()=>{
